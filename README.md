@@ -1,10 +1,11 @@
-= Wiki Loves Monuments 2011 dataset =
+# Wiki Loves Monuments 2011 dataset
 
 This is a dataset for [http://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Monuments_2011 Wiki Loves Monuments 2011]. It contains metadata of all the images uploaded to Wikimedia Commons from September 1 to September 30, 2011, during the Wiki Loves Monuments 2011 photo contest. 
 
   * Article: "[http://digithum.uoc.edu/ojs/index.php/digithum/issue/view/n14 Wiki Loves Monuments 2011: the experience in Spain and reflections regarding the diffusion of cultural heritage]"
 
-== Dataset structure ==
+## Dataset structure
+
 {{{
 file_id|file_name|file_user_name|file_date_taken|file_date_upload|file_size|file_width|file_height|file_monument_id|file_country
 16430663|File:0 Bergues - Beffroi (1).jpg|Jean-Pol GRANDMONT|2011-08-30T17:58:02Z|2011-09-11T11:30:44Z|2949829|2373|3560||fr
@@ -18,7 +19,7 @@ file_id|file_name|file_user_name|file_date_taken|file_date_upload|file_size|file
 17149008|"File:""Halászlány"" kútszobor (4965. számú műemlék).jpg"|TgrBot|2011-07-25T15:44:08Z|2011-10-28T00:56:19Z|789238|1500|1117|4965|
 }}}
 
-== Usage examples ==
+## Usage examples
 
 All the examples have been created using [http://code.google.com/p/wlm-2011-dataset/downloads/detail?name=wlm-2011-dataset-v1.zip wlm-2011-dataset-v1.zip].
 
